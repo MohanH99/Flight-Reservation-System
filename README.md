@@ -1,2 +1,5 @@
 # Flight-Reservation-System
-This system allows reservation of flights. It also manage booking of flight with some required functionalities. For Users: customer- book, flight, tickets . Account setting functionalities for Admin: updating, adding flights.  
+This application allows booking of flights, with some required functionalities.
+For Users: book flight tickets, update seats, report an Issue. 
+Account setting functionalities for Admin: adding flights,view reported issue. 
+Used : Java Swing, AWT, Jdbc, Mysql, 
